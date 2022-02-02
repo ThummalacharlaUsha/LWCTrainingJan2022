@@ -1,0 +1,16 @@
+.divBg {       
+    background-color:rgb(248, 243, 243);
+    padding:4em 4em 4em 4em;
+    margin: 1em 1em 1em 1em;
+  }
+ .fontclor{
+   color:rgb(0, 0, 0);  
+   font-weight:bold;
+   padding: 0px 50px 0px 0px; 
+ }
+ .green{
+   color:yellowgreen;
+ }
+ .red{
+   color: red;
+ }
